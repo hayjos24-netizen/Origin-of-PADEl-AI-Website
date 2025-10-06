@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>International Tournaments - Padel Origins</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Padel Origins</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="earliest-evidence.html">Earliest Evidence</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="international-tournaments.html">International Tournaments</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container my-5">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="display-4 mb-4">The Rise of Professional Padel</h1>
+                <p class="lead">From a private game to a professional sport, Padel's journey is marked by the establishment of governing bodies and world-class tournaments.</p>
+            </div>
+        </div>
+        
+        <div class="row mt-4">
+            <div class="col-md-12">
+                <h2>The International Padel Federation (FIP)</h2>
+                <p>The global expansion of Padel led to the founding of the <strong>International Padel Federation (FIP)</strong> in Madrid in 1991. The FIP is the world governing body of Padel and is responsible for organizing the Padel World Championship and establishing the official rules of the game. Its creation was a pivotal moment, providing the structure needed for the sport to grow internationally.</p>
+                
+                <h2 class="mt-5">Major Professional Circuits</h2>
+                <p>The professionalization of the sport accelerated in the 21st century with the creation of professional tours. These circuits have allowed players to compete for prize money and ranking points, attracting television audiences and major sponsorships.</p>
+
+                <table class="table table-striped table-hover mt-4">
+                    <thead class="table-dark">
+                        <tr>
+                            <th scope="col">Tournament / Circuit</th>
+                            <th scope="col">Founded</th>
+                            <th scope="col">Notable Features</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>World Padel Tour (WPT)</td>
+                            <td>2013</td>
+                            <td>Was the premier professional Padel circuit for a decade, centralizing the professional tour and significantly increasing the sport's visibility. It held its final season in 2023.</td>
+                        </tr>
+                        <tr>
+                            <td>Premier Padel</td>
+                            <td>2022</td>
+                            <td>Governed by the FIP and backed by Qatar Sports Investments (QSI). As of 2024, it is the sole official professional Padel tour, unifying the sport under a single global circuit.</td>
+                        </tr>
+                        <tr>
+                            <td>FIP World Padel Championships</td>
+                            <td>1992</td>
+                            <td>A biennial team event where national teams compete. It is the most prestigious international team competition in the sport.</td>
+                        </tr>
+                        <tr>
+                            <td>European Padel Championship</td>
+                            <td>1995</td>
+                            <td>A biennial event organized by the FIP for European national teams, showcasing the strength of Padel on the continent.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-dark text-white text-center p-3 mt-5">
+        <div class="container">
+            <p>&copy; 2025 Padel Origins Website. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
