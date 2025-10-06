@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Earliest Evidence - Padel Origins</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Padel Origins</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="earliest-evidence.html">Earliest Evidence</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="international-tournaments.html">International Tournaments</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container my-5">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="display-4 mb-4">The Invention in Acapulco</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8">
+                <h2>Enrique Corcuera's Innovation</h2>
+                <p>The sport of Padel was invented in <strong>1969</strong> in the Mexican beach resort of Acapulco by <strong>Enrique Corcuera</strong>. Corcuera, a wealthy businessman, wanted to build a tennis court at his holiday home but did not have enough space. His property was flanked by high walls on three sides.</p>
+                <p>He decided to adapt the space he had, building a court that was smaller than a standard tennis court—approximately 20 meters by 10 meters. He enclosed the court with walls up to 3 meters high. When playing, he realized that the walls could be used as part of the game, allowing the ball to bounce off them, which added a new and exciting dynamic. He created a set of rules for this new game, using perforated wooden paddles (paletas) instead of stringed racquets.</p>
+                
+                <h3 class="mt-5">The Spread to Spain</h3>
+                <p>The game remained a private affair among Corcuera's friends and family until his Spanish friend, Prince Alfonso de Hohenlohe, visited him in 1974. Hohenlohe fell in love with the game and decided to introduce it to the exclusive Marbella Club on Spain's Costa del Sol. He built two courts, making slight modifications to the rules and court design.</p>
+                <p>These first two courts in Spain became the catalyst for the sport's explosion in popularity. It quickly became a fashionable sport among the elite and then spread to all social classes throughout Spain and Argentina, which remain the two powerhouse nations in the world of Padel today.</p>
+            </div>
+            <div class="col-lg-4">
+                <figure class="figure">
+                    <img src="https://images.unsplash.com/photo-1598984932038-16a751631e45?q=80&w=1974&auto=format&fit=crop" class="figure-img img-fluid rounded" alt="A modern Padel court with glass walls">
+                    <figcaption class="figure-caption">A modern Padel court, an evolution of Corcuera's original design.</figcaption>
+                </figure>
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-dark text-white text-center p-3 mt-5">
+        <div class="container">
+            <p>&copy; 2025 Padel Origins Website. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
